@@ -1,0 +1,58 @@
+
+[
+     {
+         "id": 1,
+         "name": "Burj Khalifa",
+         "country": "uae",
+         "description": "The Burj Khalifa is an iconic skyscraper located in Dubai, United Arab Emirates. It's the tallest building in the world, standing at a staggering height of 828 meters (2,717 feet) and comprises 163 floors. Designed by Adrian Smith, the Burj Khalifa was completed in 2010 and has become a symbol of Dubai's modernization and ambition. It houses residential apartments, corporate offices, luxury hotels, and observation decks offering breathtaking views of the city and the surrounding landscape.",
+         "latiude": 25.191964,
+         "longitude": 55.277456,
+         "picture": "burj khalifa"
+     },
+     {
+         "id": 2
+         "name": "Taipei 101",
+         "country": "taiwan",
+         "description": "Taipei 101 is an iconic skyscraper located in Taipei, Taiwan. It was the world's tallest building from 2004 until the completion of the Burj Khalifa in Dubai in 2010. Taipei 101 stands at 508 meters (1,667 feet) tall and has 101 floors above ground, hence its name. It's renowned for its unique design, which incorporates elements of traditional Asian architecture with modern technology. The building is a symbol of Taiwan's economic success and technological prowess, and it's a popular tourist attraction, offering observation decks with stunning views of Taipei and the surrounding area. Additionally, Taipei 101 is known for its New Year's Eve fireworks display, which is one of the most spectacular in the world.",
+         "latiude": 25.033964,
+         "longitude": 121.564468,
+         "picture": "taipei 101"
+     },
+     {
+         "id": 3,
+         "name": "The Empire State Building",
+         "country": "usa",
+         "description": "The Empire State Building is a renowned skyscraper located in Midtown Manhattan, New York City. It was completed in 1931 and held the title of the world's tallest building for nearly 40 years until the completion of the North Tower of the World Trade Center in 1970. Even after losing the title, the Empire State Building remained an iconic symbol of New York City and the United States.
+             Standing at a height of 1,454 feet (443.2 meters) to the tip of its antenna
+             spire, the Empire State Building has 102 floors. Its Art Deco design, with
+             setbacks and decorative motifs, makes it one of the most recognizable
+             buildings in the world. The building's observation decks on the 86th and 102nd
+             floors offer breathtaking views of Manhattan and beyond, attracting millions
+             of visitors each year.",
+         "latiude": 40.748817,
+         "longitude": -73.985428,
+         "picture": "the empire state building"
+     },
+     {
+         "id": 4,
+         "name": "Lotte world tower",
+         "country": "korea",
+         "description": "Lotte World Tower is a prominent skyscraper located in Seoul, South Korea. Completed in 2016, it stands as the tallest building in South Korea and the fifth tallest in the world as of my last update. Lotte World Tower reaches a height of 555 meters (1,819 feet) and boasts 123 floors above ground, as well as additional underground levels.
+             The tower is part of the larger Lotte World complex, which includes an
+             entertainment and shopping complex, offices, a luxury hotel, and a variety of
+             amenities. Lotte World Tower's design is characterized by its sleek and modern
+             aesthetic, with a glass facade and a unique tapering shape that narrows as it
+             rises.
+             One of the standout features of Lotte World Tower is its observation
+             deck,located near the top of the building, which offers panoramic views of
+             Seoul and the surrounding area. Additionally, the tower is equipped with
+             cutting-edge sustainability features and technology, reflecting South Korea's
+             commitment to innovation and environmental stewardship. Overall, Lotte World
+             Tower has become an iconic landmark in Seoul's skyline and a symbol of the
+             city's growth and modernization.",
+         "latiude": 37.511234,
+         "longitude": 127.098030,
+         "picture": "lotte world tower"
+     }
+ ]
+
